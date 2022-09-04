@@ -1,0 +1,5 @@
+Credentials cache: API:5955
+        Principal: maferrei@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep 20 16:04:04 2021  Sep 21 02:03:57 2021  krbtgt/42MADRID.COM@42MADRID.COM
