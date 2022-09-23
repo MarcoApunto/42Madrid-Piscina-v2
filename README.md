@@ -5,7 +5,7 @@ My 2nd piscine on 42_Madrid
 [![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 | Projects          | Score                                                 |&emsp;| Projects          | Score                                                 |
-|:----------------- |:----------------------------------------------------- |&emsp;|:----------------- |:-----................................................ |
+|:----------------- |:----------------------------------------------------- |&emsp;|:----------------- |:----------------------------------------------------- |
 | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
 | Shell 01          |       |&emsp;&emsp;&emsp;&emsp;| C 05              |       |
 | C 00              |       |&emsp;&emsp;&emsp;&emsp;| C 06              |       |
