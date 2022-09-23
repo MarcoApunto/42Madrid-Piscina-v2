@@ -6,7 +6,7 @@ My 2nd piscine on 42_Madrid
 
 | Projects          | Score                                                 |
 |:----------------- |:----------------------------------------------------- |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3R7vRMP) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
 | Shell 01          |       |&emsp;&emsp;&emsp;&emsp;| C 05              |       |
 | C 00              |       |&emsp;&emsp;&emsp;&emsp;| C 06              |       |
 | C 01              |       |&emsp;&emsp;&emsp;&emsp;| C 07              |       |
