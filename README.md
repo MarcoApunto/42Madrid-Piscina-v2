@@ -4,14 +4,14 @@ My 2nd piscine on 42_Madrid
 
 [![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-| Projects          | Score |				| Projects          | Score |				| Exams             | Score |
-|:----------------- |:----- |&emsp;&emsp;&emsp;&emsp;|:----------------- |:----- |				|:----------------- |:----- |
-| Shell 00          | |						| C 04              | |						| Exam 00           | |
-| Shell 01          | |						| C 05              | |						| Exam 00           | |
-| C 00              | |						| C 06              | |						| Exam 00           | |
-| C 01              | |						| C 07              | |						| Exam 00           | |
-| C 02              | |						| C 08              | |
-| C 03              | |						| C 09              | |
+| Projects          | Score |&emsp;&emsp;&emsp;&emsp;| Projects          | Score |&emsp;&emsp;&emsp;&emsp;| Exams             | Score |
+|:----------------- |:----- |&emsp;&emsp;&emsp;&emsp;|:----------------- |:----- |&emsp;&emsp;&emsp;&emsp;|:----------------- |:----- |
+| Shell 00          | |&emsp;&emsp;&emsp;&emsp;| C 04              | |&emsp;&emsp;&emsp;&emsp;| Exam 00           | |
+| Shell 01          | |&emsp;&emsp;&emsp;&emsp;| C 05              | |&emsp;&emsp;&emsp;&emsp;| Exam 00           | |
+| C 00              | |&emsp;&emsp;&emsp;&emsp;| C 06              | |&emsp;&emsp;&emsp;&emsp;| Exam 00           | |
+| C 01              | |&emsp;&emsp;&emsp;&emsp;| C 07              | |&emsp;&emsp;&emsp;&emsp;| Exam 00           | |
+| C 02              | |&emsp;&emsp;&emsp;&emsp;| C 08              | |
+| C 03              | |&emsp;&emsp;&emsp;&emsp;| C 09              | |
 
 [![marferre's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2714947)](https://github.com/JaeSeoKim/badge42)
 
