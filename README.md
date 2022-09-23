@@ -13,7 +13,7 @@ My 2nd piscine on 42_Madrid
 | C 02              |       |&emsp;&emsp;&emsp;&emsp;| C 08              |       |
 | C 03              |       |&emsp;&emsp;&emsp;&emsp;| C 09              |       |
 
-[![marferre's 42 C Piscine Exam 00 Score]](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2714947)
+(https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2714947)
 
 &emsp;&emsp;&emsp;&emsp;| Projects          | Score |
 &emsp;&emsp;&emsp;&emsp;|:----------------- |:----- |
