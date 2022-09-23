@@ -7,11 +7,10 @@ My 2nd piscine on 42_Madrid
 | Projects          | Score                                                 |&emsp;| Projects          | Score                                                 |
 |:----------------- |:----------------------------------------------------- |&emsp;|:----------------- |:----------------------------------------------------- |
 | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 01          |       |&emsp;&emsp;&emsp;&emsp;| C 05              |       |
-| C 00              |       |&emsp;&emsp;&emsp;&emsp;| C 06              |       |
-| C 01              |       |&emsp;&emsp;&emsp;&emsp;| C 07              |       |
-| C 02              |       |&emsp;&emsp;&emsp;&emsp;| C 08              |       |
-| C 03              |       |&emsp;&emsp;&emsp;&emsp;| C 09              |       |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
 
 [![marferre's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2736634)](https://github.com/JaeSeoKim/badge42)
 
