@@ -6,12 +6,12 @@ My 2nd piscine on 42_Madrid
 
 | Projects          | Score                                                 | Projects          | Score                                                 |
 |:----------------- |:----------------------------------------------------- |:----------------- |:----------------------------------------------------- |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.]()](https://bit.ly/3ffjJw0) |
+| Shell 01          |[![.]()](https://bit.ly/3ffjJw0) | C 05              |[![.]()](https://bit.ly/3ffjJw0) |
+| C 00              |[![.]()](https://bit.ly/3ffjJw0) | C 06              |[![.]()](https://bit.ly/3ffjJw0) |
+| C 01              |[![.]()](https://bit.ly/3ffjJw0) | C 07              |[![.]()](https://bit.ly/3ffjJw0) |
+| C 02              |[![.]()](https://bit.ly/3ffjJw0) | C 08              |[![.]()](https://bit.ly/3ffjJw0) |
+| C 03              |[![.]()](https://bit.ly/3ffjJw0) | C 09              |[![.]()](https://bit.ly/3ffjJw0) |
 
 [![marferre's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2736634)](https://github.com/JaeSeoKim/badge42)
 
