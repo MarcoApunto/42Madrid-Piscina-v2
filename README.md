@@ -18,4 +18,4 @@ My 2nd piscine on 42_Madrid
 | Exam 00           |[![.]()](https://bit.ly/3ffjJw0) |
 | Exam 01           |[![.]()](https://bit.ly/3ffjJw0) |
 | Exam 02           |[![.]()](https://bit.ly/3ffjJw0) |
-| Exam Final        |[![.]([![marferre's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2757999)](https://github.com/JaeSeoKim/badge42))](https://bit.ly/3ffjJw0) |
+| Exam Final        |([![.](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2757999)](https://bit.ly/3ffjJw0) |
