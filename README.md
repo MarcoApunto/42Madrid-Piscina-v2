@@ -6,7 +6,7 @@ My 2nd piscine on 42_Madrid
 
 | Projects          | Score                                                 | Projects          | Score                                                 |
 |:----------------- |:----------------------------------------------------- |:----------------- |:----------------------------------------------------- |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.]()](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | C 04              |[![.](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2736261)](https://bit.ly/3ffjJw0) |
 | Shell 01          |[![.](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2713695)](https://bit.ly/3ffjJw0) | C 05              |[![.]()](https://bit.ly/3ffjJw0) |
 | C 00              |[![.](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2717958)](https://bit.ly/3ffjJw0) | C 06              |[![.]()](https://bit.ly/3ffjJw0) |
 | C 01              |[![.](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2723865)](https://bit.ly/3ffjJw0) | C 07              |[![.]()](https://bit.ly/3ffjJw0) |
@@ -35,7 +35,7 @@ My 2nd piscine on 42_Madrid
 [![marferre's 42 C Piscine C 03 Score]()](https://github.com/JaeSeoKim/badge42)
 
 ### C 04 Score
-[![marferre's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2736261)](https://github.com/JaeSeoKim/badge42)
+[![marferre's 42 C Piscine C 04 Score]()](https://github.com/JaeSeoKim/badge42)
 
 ### C 05 Score
 [![marferre's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2736634)](https://github.com/JaeSeoKim/badge42)
