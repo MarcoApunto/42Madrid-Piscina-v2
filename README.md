@@ -4,7 +4,7 @@ My 2nd piscine on 42_Madrid
 
 [![marferre's 42 stats](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-| Projects          | Score |'\t''\t''\t''\t'| Projects          | Score |				| Exams             | Score |
+| Projects          | Score |"\t""\t""\t""\t"| Projects          | Score |				| Exams             | Score |
 |:----------------- |:----- |				|:----------------- |:----- |				|:----------------- |:----- |
 | Shell 00          |[![marferre's](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2710040)](https://github.com/JaeSeoKim/badge42) |						| C 04              |[![marferre's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2736261)](https://github.com/JaeSeoKim/badge42) |						| Exam 00           |[![marferre's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/project/2714947)](https://github.com/JaeSeoKim/badge42) |
 | Shell 01          | |						| C 05              | |						| Exam 00           | |
