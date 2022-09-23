@@ -7,7 +7,8 @@ My 2nd piscine on 42_Madrid
 | Projects          | Score                                                 |&emsp;| Projects          | Score                                                 |
 |:----------------- |:----------------------------------------------------- |&emsp;|:----------------- |:----------------------------------------------------- |
 | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
-| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) | | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
+| Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
 | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
 | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
 | Shell 00          |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |&emsp;| C 04              |[![.](https://bit.ly/3SxnN9n)](https://bit.ly/3ffjJw0) |
